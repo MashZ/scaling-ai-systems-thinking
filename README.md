@@ -13,4 +13,6 @@ This work is licensed under MIT. Users assume all responsibility for their appli
 
 Any trademarks, service marks, or company names mentioned are the property of their respective owners and are used for identification and educational purposes only.
 
-Last updated: 23 September 2025
+Certain portions of this code and documentation were developed with assistance from AI tools, with all outputs reviewed and validated by the author.
+
+Last updated: 24 September 2025
